@@ -1,2 +1,2 @@
 # Instruction-Project
-Home Screen Settings Instruction
+Hello! This is a project to introduce myself to you as a technical writer. I took my phone and created an example of an instruction for some settings by the standards of Microsoft Manual of Style (or Microsoft Style Manual, as it's called these days). I'm ready for new tasks and I'm looking forward to working with a great team of a successful company! Thanks for your time and attention!
