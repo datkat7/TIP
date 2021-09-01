@@ -1,2 +1,2 @@
 # Instruction-Project
-Main Screen Settings Instruction
+Home Screen Settings Instruction
